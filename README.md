@@ -4,4 +4,9 @@
 
 ![alt text](https://github.com/ruvu007/PRO2Achievements/blob/master/R.jpg?raw=true"Logo")
 
+* Talen die ik leer
+- HTML
+- CSS
+- JavaScript
+
 
