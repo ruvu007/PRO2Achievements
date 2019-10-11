@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ma\\bewijzenmap\\periode1.1\\pro2\\Github\\Github.csproj": {}
+  },
+  "projects": {
+    "D:\\ma\\bewijzenmap\\periode1.1\\pro2\\Github\\Github.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ma\\bewijzenmap\\periode1.1\\pro2\\Github\\Github.csproj",
+        "projectName": "Github",
+        "projectPath": "D:\\ma\\bewijzenmap\\periode1.1\\pro2\\Github\\Github.csproj",
+        "packagesPath": "C:\\Users\\ralvu\\.nuget\\packages\\",
+        "outputPath": "D:\\ma\\bewijzenmap\\periode1.1\\pro2\\Github\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ralvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
