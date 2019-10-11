@@ -1,3 +1,7 @@
 #1 Welkom op mijn PRO2 Github!
 
-[I'm an inline-style link with title](https://github.com/ruvu007 "Mijn Github mainpage")
+[Dit is mijn Github hoofdpagina](https://github.com/ruvu007 "Mijn Github mainpage")
+
+![alt text](https://github.com/ruvu007/PRO2Achievements/blob/master/R.jpg?raw=true"Logo")
+
+
