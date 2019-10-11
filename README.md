@@ -1,6 +1,6 @@
-# H1 Welkom op mijn PRO2 Github!
+# Welkom op mijn PRO2 Github!
 
-#### H4 Mijn naam is Ruben Vuurman ik zit in de klas MG1A
+#### Mijn naam is Ruben Vuurman ik zit in de klas MG1A
 
 [Dit is mijn Github hoofdpagina](https://github.com/ruvu007 "Mijn Github mainpage")
 
@@ -11,4 +11,4 @@
 - CSS
 - JavaScript
 
-### H3 Bedankt voor het lezen.
+### Bedankt voor het lezen.
