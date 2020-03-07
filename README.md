@@ -1,6 +1,6 @@
 # Welkom op mijn PRO2 Github!
 
-#### Mijn naam is Ruben Vuurman ik zit in de klas MG1A
+#### Mijn naam is Ruben ik zit in de klas MG1A
 
 [Dit is mijn Github hoofdpagina](https://github.com/ruvu007 "Mijn Github mainpage")
 
